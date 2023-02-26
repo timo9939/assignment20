@@ -1,11 +1,12 @@
 import React from "react";
-import gitHubLogo from "./images/gitHubLogo.png" ;
+import gitLogo from "./images/gitLogo.svg" ;
 
 function footer(){
     return(
     <div>
-        <h1>This is footer</h1>
-        <img src={gitHubLogo.default} alt="Logo" />
+        
+        <img src={gitLogo} alt="Logo" />
+        
     </div>
     )
 }

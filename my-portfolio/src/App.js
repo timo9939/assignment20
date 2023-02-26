@@ -5,7 +5,7 @@ import Header from './components/Header'
 import Navigation from './components/Navigation'
 import AboutMe from './components/Aboutme'
 
-import Project from './components/Project'
+import Portfolio from './components/Portfolio'
 import Footer from './components/Footer'
 
 
@@ -15,10 +15,10 @@ export default function App() {
   return (
     <div>
       <Header/>
-      <Navigation />
-      <AboutMe />
+      <Navigation/>
+      <Portfolio/>
+    
 
-      {/* <Project/> */}
       <Footer/>
       
       
