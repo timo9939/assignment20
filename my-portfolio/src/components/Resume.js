@@ -5,6 +5,8 @@ import '../styles/color.css'
     return(
 <section className="resume">
 <h1>Resume</h1>
+<a href="/Timothy.pdf" download>Download Resume </a>
+
 <h1>Timothy Lau</h1>
 <h2>Front-End Skills</h2>
 <ul>

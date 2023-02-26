@@ -14,7 +14,7 @@ export default function App() {
 
 // create a state variable that keeps track of what page we're on
 // set that state variable to hold a string for the main page
-const [currentPage, setCurrentPage] = useState('Portfolio');
+const [currentPage, setCurrentPage] = useState('Aboutme');
 
 const renderPage=()=>{
   if (currentPage === 'Aboutme') {
