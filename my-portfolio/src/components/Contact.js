@@ -5,16 +5,19 @@ import React from "react";
 <form>
 <h2>Contact</h2>
 
-<label>Name</label>
-<br/>
+<label>Name
+<br></br>
 <input
-          
           name="Name"
           
           type="name"
           placeholder="Name"
         />
 <br/>
+</label>
+
+
+
 <label>Email</label>
 <br/>
         <input
@@ -27,14 +30,19 @@ import React from "react";
 <br/>
 <label>Message</label>
 <br/>
+
+
+<textarea>
         <input
         //   value={Message}
           name="message"
         //   onChange={handleInputChange}
-          type="text"
+          type="textarea" rows="20" cols="5"
           placeholder="Message"
-        />
-        {/* <button type="button" onClick={handleFormSubmit}>Submit</button> */}
+          
+        /></textarea>
+        <br></br>
+        <button type="submit" onClick={""}>Submit</button>
 
 
 

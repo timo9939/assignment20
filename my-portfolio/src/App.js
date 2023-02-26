@@ -8,6 +8,7 @@ import AboutMe from './components/Aboutme'
 import Portfolio from './components/Portfolio'
 import ContactForm from './components/Contact'
 import Footer from './components/Footer'
+import Resume from './components/Resume';
 
 
 // Inside our App component, we have a return method that contains all the JSX we want to render to the screen.
@@ -18,7 +19,7 @@ export default function App() {
       <Header/>
       <Navigation/>
       <ContactForm/>
-    
+      <Resume/>
 
       <Footer/>
       
