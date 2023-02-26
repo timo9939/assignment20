@@ -4,7 +4,7 @@ import React from "react";
     return(
 <section>
 <h1>Resume</h1>
-
+<h1>Timothy Lau</h1>
 <h2>Front-End Skills</h2>
 <ul>
 <li>HTML 5.0</li>
