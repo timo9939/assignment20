@@ -5,6 +5,8 @@ import React from "react";
 <form>
 <h2>Contact</h2>
 
+<label>Name</label>
+<br/>
 <input
           
           name="Name"
@@ -12,19 +14,25 @@ import React from "react";
           type="name"
           placeholder="Name"
         />
+<br/>
+<label>Email</label>
+<br/>
         <input
         //   value={email}
           name="email"
         //   onChange={handleInputChange}
           type="text"
-          placeholder="username"
+          placeholder="Email"
         />
+<br/>
+<label>Message</label>
+<br/>
         <input
         //   value={Message}
           name="message"
         //   onChange={handleInputChange}
           type="text"
-          placeholder="Password"
+          placeholder="Message"
         />
         {/* <button type="button" onClick={handleFormSubmit}>Submit</button> */}
 
