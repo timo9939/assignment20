@@ -1,12 +1,14 @@
 import React from "react";
 
-export default function(){
+ function Headers(){
     return(
 <div>
-<header>Timothy Lau</header>
+<h1>Timothy Lau</h1>
 
 
 
 </div>
     )
 }
+
+export default Headers
