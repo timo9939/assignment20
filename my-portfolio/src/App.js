@@ -6,6 +6,7 @@ import Navigation from './components/Navigation'
 import AboutMe from './components/Aboutme'
 
 import Portfolio from './components/Portfolio'
+import ContactForm from './components/Contact'
 import Footer from './components/Footer'
 
 
@@ -16,7 +17,7 @@ export default function App() {
     <div>
       <Header/>
       <Navigation/>
-      <Portfolio/>
+      <ContactForm/>
     
 
       <Footer/>
