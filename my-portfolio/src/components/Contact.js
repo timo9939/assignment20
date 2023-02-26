@@ -1,8 +1,9 @@
 import React from "react";
+import '../styles/color.css'
 
  function contact(){
     return(
-<form>
+<form className="contactForm">
 <h2>Contact</h2>
 
 <label>Name
@@ -32,22 +33,23 @@ import React from "react";
 <br/>
 
 
-<textarea>
-        <input
+
+        <textarea
         //   value={Message}
           name="message"
         //   onChange={handleInputChange}
-          type="textarea" rows="20" cols="5"
-          placeholder="Message"
+          type="textarea" rows="8" cols="30"
+          placeholder="Input the message"
           
-        /></textarea>
+        />
         <br></br>
         <button type="submit" onClick={""}>Submit</button>
 
-
-
-
+<br></br>
+<br></br>
+<br></br>
 </form>
+
     )
 }
 

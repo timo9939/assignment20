@@ -1,17 +1,18 @@
 import React from "react";
-import '../styles/header.css'
+import '../styles/color.css'
 import background from "./images/noodle.jpg"
 
 const styles={
     headerstyle:{
-       fontSize:'50px'
+       fontSize:'50px',
+       background:'green',
     }
 }
 
  function Headers(){
     return(
-<div style={{backgroundImage:`url${background}`}}>
-<h1>Timothy Lau</h1>
+<div >
+<h1 className="header">Timothy Lau</h1>
 
 
 

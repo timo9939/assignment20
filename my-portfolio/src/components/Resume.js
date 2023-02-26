@@ -1,8 +1,9 @@
 import React from "react";
+import '../styles/color.css'
 
  function Resume(){
     return(
-<section>
+<section className="resume">
 <h1>Resume</h1>
 <h1>Timothy Lau</h1>
 <h2>Front-End Skills</h2>
