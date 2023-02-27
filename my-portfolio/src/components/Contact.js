@@ -40,8 +40,8 @@ const handleFormSubmit=(e)=>{
 
 
     return(
-      <div>
-<form >
+<div className=".contactForm">
+<form>
 <h2>Contact</h2>
 
 <label>Name

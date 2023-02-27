@@ -16,13 +16,14 @@ import "../styles/portfo.css"
 <h1>Portfolio</h1>
 </header>
 
+<h2>Click the below photo to direct to the portfolio page</h2>
 
 
 <section className="container">
 <a href="https://timo9939.github.io/Timothy-Assignment1/">
 <img style={{ width: 300, height: 200 }} src={assi1photo} alt="assi1 logo" />
 <div class='overlay'>
-<div class='text'>Assignment1</div>    
+{/* <div class='text'>Assignment1</div>     */}
 </div>
 </a>
 </section>

@@ -11,9 +11,15 @@ This is a react webiste to illustrate my portfolio,personal information and resu
 
 * [ScreenShot](#screenshot)
 
+* [License](#📝license)
+
+* [Deplyed Website](#📡-deployed-website)
+
+* [GitHub Repository](#🔰-github-repository)
 
 ***
 ## 📷 ScreenShot
+![ScreenCpature](./my-portfolio/ScreenCap20.PNG)
 
 ***
 ## 📝License
