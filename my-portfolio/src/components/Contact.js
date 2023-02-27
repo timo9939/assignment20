@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import '../styles/color.css'
 import { validateEmail } from "../utils/validator";
 
- function contact(){
+ function Contact(){
 
 const [email,setEmail]=useState('')
 const [name,setName]=useState('')
@@ -100,4 +100,4 @@ const handleFormSubmit=(e)=>{
     )
 }
 
-export default contact
+export default Contact
