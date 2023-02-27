@@ -27,7 +27,8 @@ This is a react webiste to illustrate my portfolio,personal information and resu
 
 ***
 ## 📡 Deployed Website
-
+https://timo9939.github.io/assignment20/
 ***
+
 ## 🔰 Github Repository
 https://github.com/timo9939/assignment20
