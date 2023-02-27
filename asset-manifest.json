@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a825d4e.css",
+    "main.js": "/static/js/main.80f26c4c.js",
+    "static/media/computer.jpg": "/static/media/computer.cfa1b8a05b98989bc9e9.jpg",
+    "static/media/concept.jpg": "/static/media/concept.4b8eaddf34971ddbaa02.jpg",
+    "static/media/noodle.jpg": "/static/media/noodle.6db2e1ba2460836eec19.jpg",
+    "static/media/hongkong.jpg": "/static/media/hongkong.97dba3dab0bff4e1f945.jpg",
+    "static/media/leaf.jpg": "/static/media/leaf.8633422bc3e8f626444c.jpg",
+    "static/media/dessert.jpg": "/static/media/dessert.80c91f523a9549f27cbb.jpg",
+    "static/media/Profile-picture.jpg": "/static/media/Profile-picture.99460d90b2ced8f84062.jpg",
+    "static/media/stackoverflow-logo.svg": "/static/media/stackoverflow-logo.31c85f3f3e17cd6f8a4317581fb7082f.svg",
+    "static/media/gitLogo.svg": "/static/media/gitLogo.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/index.html",
+    "main.2a825d4e.css.map": "/static/css/main.2a825d4e.css.map",
+    "main.80f26c4c.js.map": "/static/js/main.80f26c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a825d4e.css",
+    "static/js/main.80f26c4c.js"
+  ]
+}
