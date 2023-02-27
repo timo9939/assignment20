@@ -19,7 +19,7 @@ This is a react webiste to illustrate my portfolio,personal information and resu
 
 ***
 ## 📷 ScreenShot
-![ScreenCpature](./my-portfolio/ScreenCap20.PNG)
+![ScreenCpature](./ScreenShot/ScreenCap20.PNG)
 
 ***
 ## 📝License
