@@ -83,7 +83,7 @@ const handleFormSubmit=(e)=>{
         />
 
         <br></br>
-        <button type="submit" onClick={""}>Submit</button>
+        <button type="submit" onClick={handleFormSubmit}>Submit</button>
 
 <br></br>
 <br></br>
